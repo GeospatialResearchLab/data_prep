@@ -1,4 +1,33 @@
-.Rproj.user
+# R history and data
 .Rhistory
+.Rapp.history
 .RData
+.RDataTmp
 .Ruserdata
+.Rproj.user/
+
+# Quarto build output
+_site/
+*.html
+*.pdf
+*.docx
+
+# Cache + knitr
+*_cache/
+cache/
+*.utf8.md
+*.knit.md
+
+# Package build junk
+*.Rcheck/
+*.tar.gz
+
+# OAuth tokens
+.httr-oauth
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
