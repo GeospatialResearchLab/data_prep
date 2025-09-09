@@ -2,9 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "data_prep",
+    "title": "Preparing Open Data for Public Repositories",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Open data is only useful if it is accessible, understandable, and reusable. This mini-guide shows you how to make that happen fast.\n\n\n\nHow to choose file types that maximize long-term reuse (and what to avoid)\nHow to format quantitative and qualitative data so people and machines can work with it\nWhat to include in a README, codebook, and metadata to make your dataset self-explanatory\nHow to package and organize files for a smooth repository deposit"
+  },
+  {
+    "objectID": "index.html#what-youll-learn",
+    "href": "index.html#what-youll-learn",
+    "title": "Preparing Open Data for Public Repositories",
+    "section": "",
+    "text": "How to choose file types that maximize long-term reuse (and what to avoid)\nHow to format quantitative and qualitative data so people and machines can work with it\nWhat to include in a README, codebook, and metadata to make your dataset self-explanatory\nHow to package and organize files for a smooth repository deposit"
   },
   {
     "objectID": "about.html",
